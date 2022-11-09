@@ -1,0 +1,7 @@
+sphinx
+
+kentigern
+
+sphinxcontrib-bibtex
+#sphinx-numfig
+#sphinx-panels
